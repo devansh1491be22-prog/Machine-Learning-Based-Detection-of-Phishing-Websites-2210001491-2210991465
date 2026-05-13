@@ -17,7 +17,7 @@
 | **Team Members** | Devansh Anthal, Chirag Mittal |
 | **Supervisor** | Dr. Shikha Tuteja |
 | **Department** | Computer Science & Engineering, Chitkara University, Punjab, India |
-| **Batch** | CO-OP 3B |
+| **Batch** | IOHE G-17 |
 | **Submission Status** | ✅ Submitted |
 
 ---
