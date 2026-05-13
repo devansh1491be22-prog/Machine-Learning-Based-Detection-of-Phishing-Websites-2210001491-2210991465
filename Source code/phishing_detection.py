@@ -7,7 +7,7 @@
 #   Supervisor : Dr. Shikha Tuteja
 #   Department : Computer Science & Engineering
 #   University : Chitkara University, Punjab, India
-#   Batch      : CO-OP 3B
+#   Batch      : IOHE G-17
 #
 #   Dataset    : UCI Phishing Websites Dataset (11,055 samples, 30 features)
 #   Models     : Logistic Regression, Decision Tree, Random Forest, SVM
