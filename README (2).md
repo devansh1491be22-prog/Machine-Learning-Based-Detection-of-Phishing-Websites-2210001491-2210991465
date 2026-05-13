@@ -78,7 +78,7 @@ Machine-Learning-Based-Detection-of-Phishing-Websites-2210001491-2210991465/
 │
 ├── Source Code/
 │   ├── phishing_detection.py        ← Complete Python ML training code
-│   └── phishing_detector.html       ← Interactive browser-based demo app
+│      
 │
 └── README.md
 ```
@@ -112,18 +112,7 @@ results/   → performance_report.txt
 
 ---
 
-## 🌐 How to Run the Demo App
 
-Open `Source Code/phishing_detector.html` by **double-clicking** it — opens directly in any browser.
-
-- No Python needed
-- No installation needed
-- No internet needed
-- Works completely offline
-
-Enter any URL → get instant phishing or legitimate prediction with confidence score, feature analysis, and all 4 model predictions side by side.
-
----
 
 ## 📊 What the Python Code Does (Step by Step)
 
@@ -199,4 +188,4 @@ Chitkara University, Punjab, India
 
 ---
 
-*Research project submitted for CO-OP 3B evaluation at Chitkara University, Punjab, India.*
+*Research project submitted for IOHE G-17 evaluation at Chitkara University, Punjab, India.*
