@@ -1,12 +1,5 @@
 # Machine Learning-Based Detection of Phishing Websites Using URL, Domain, and Webpage Features
 
-![Project Type](https://img.shields.io/badge/Project%20Type-Research%20Paper-blue)
-![Status](https://img.shields.io/badge/Submission%20Status-✅%20Submitted-green)
-![University](https://img.shields.io/badge/University-Chitkara%20University-red)
-![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)
-
----
-
 ## 📋 Project Information
 
 | Field | Details |
@@ -38,7 +31,6 @@
 | Research Paper (IEEE Format) | ✅ Submitted |
 | Final Project Report | ✅ Submitted |
 | Source Code (Python) | ✅ Submitted |
-| Interactive Demo (HTML) | ✅ Submitted |
 
 ---
 
